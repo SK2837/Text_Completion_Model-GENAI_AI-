@@ -82,5 +82,3 @@ The model achieves competitive performance on text completion tasks with relativ
 ## Contact
 Created by [Sai Adarsh Kasula] - feel free to contact me for any questions or collaborations!
 
-## License
-This project is open source and available under the [MIT License].
