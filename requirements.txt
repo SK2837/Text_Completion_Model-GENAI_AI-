@@ -1,0 +1,6 @@
+numpy
+pandas
+torch
+tiktoken
+tensorboard
+dill
