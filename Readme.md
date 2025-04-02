@@ -1,7 +1,7 @@
-# Text Completion Model (ShazamGPT)
+# Text Completion Model (AdiGPT)
 
 ## Project Overview
-ShazamGPT is a text completion model inspired by the architecture of GPT (Generative Pre-trained Transformer). This implementation uses PyTorch to build a transformer-based language model for generating coherent text completions based on input prompts.
+AdiGPT is a text completion model inspired by the architecture of GPT (Generative Pre-trained Transformer). This implementation uses PyTorch to build a transformer-based language model for generating coherent text completions based on input prompts.
 
 ## Features
 - Custom transformer-based architecture
